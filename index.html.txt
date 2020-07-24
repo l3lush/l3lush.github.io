@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Oh hello there!</h1>
+<p>Alexey Myshlyanov</p>
+</body>
+</html>
